@@ -1,0 +1,25 @@
+import java.util.HashMap;
+
+class Solution {
+    public int findComplement(int num) {
+        System.out.println("Hello leetcode!");
+        return this.convertToBinary(num);    
+    }
+    
+    public int convertToBinary(int num) {
+        int num2 = 0;
+        System.out.println(num);
+        num2 = num / 2;
+        System.out.println("num2=" + num2);
+        
+        aKey = this.getMyKey(num);
+        
+        return 999;
+    }
+    
+    public int getMyKey(num) {
+        int[] intBinaryArray = new int[]
+        Hashmap
+            
+    }
+}
